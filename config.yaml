@@ -17,21 +17,16 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
+    - name: Posts
+      url: "post/"
       weight: 2
-    - name: Categories
-      url: "categories/"
-      weight: 3
     - name: Tags
       url: "tags/"
-      weight: 4
-    - name: Subscribe
-      url: "index.xml"
+      weight: 3
 
 params:
   description: "My personal website with my portfolio and some blog posts"
-  footer: "&copy; [Zach Blake](https://.github.com/heyztb) {Year} | [Github](https://github.com/heyztb) | [Twitter](https://twitter.com/heyztb)"
+  footer: "&copy; [Zach Blake](https://twitter.com/heyztb) {Year} | [Github](https://github.com/heyztb) | [Twitter](https://twitter.com/heyztb)"
 
 markup:
   highlight:
